@@ -1,0 +1,74 @@
+{
+ "RCX1": [
+    {
+      "range": "A1:K20",
+      "description": "Reporte de Conexion grupo Kimberli Tatiana Maldonado Rincon"
+    }
+  ],
+  "RCX2": [
+    {
+      "range": "A1:K30",
+      "description": "Reporte de Conexion grupo Nancy Carolina Chilito Cordoba"
+    }
+  ],
+  "RCX3": [
+    {
+      "range": "A1:K30",
+      "description": "Reporte de Conexion grupo Harold Alejandro Bonilla Arciniegas"
+    }
+  ],
+  "RCX4": [
+    {
+      "range": "A1:K19",
+      "description": "Reporte de Conexion grupo Viky Milena Tierradentro Obando"
+    }
+  ],
+  "RCX5": [
+    {
+      "range": "A1:K19",
+      "description": "Reporte de Conexion grupo Joan Sebastian Monsalve Avila"
+    }
+  ],
+  "RCX6": [
+    {
+      "range": "A1:K22",
+      "description": "Reporte de Conexion grupo Paula Andrea Camacho Perez"
+    }
+  ],
+  "RCX7": [
+    {
+      "range": "A1:K23",
+      "description": "Reporte de Conexion grupo Gissel Daniela Perdomo Rodriguez"
+    }
+  ],
+  "RCX8": [
+    {
+      "range": "A1:K29",
+      "description": "Reporte de Conexion grupo Maria Alejandra Urrutia Moreno"
+    }
+  ],
+  "RCX9": [
+    {
+      "range": "A1:K29",
+      "description": "Reporte de Conexion grupo Fabio Giovany Martinez"
+    }
+  ],
+  "RCX10": [
+    {
+      "range": "A1:K30",
+      "description": "Reporte de Conexion grupo Claudia Janeth Remigio Amortegui"
+    }
+  ],
+  "RCX11": [
+    {
+      "range": "A1:K24",
+      "description": "Reporte de Conexion Lizeth Daniela Prado Rodriguez"
+    }
+  ],
+  "RCX12": [
+    {
+      "range": "A1:K30",
+      "description": "Reporte de Conexion Stiven Andres Morales Parra"
+    }
+  ]
+}

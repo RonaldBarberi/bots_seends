@@ -1,0 +1,74 @@
+{
+ "RPA1": [
+    {
+      "range": "A1:L25",
+      "description": "Reporte de Auxiliares grupo Kimberli Tatiana Maldonado Rincon"
+    }
+  ],
+  "RPA2": [
+    {
+      "range": "A1:L30",
+      "description": "Reporte de Auxiliares grupo Nancy Carolina Chilito Cordoba"
+    }
+  ],
+  "RPA3": [
+    {
+      "range": "A1:L30",
+      "description": "Reporte de Auxiliares grupo Harold Alejandro Bonilla Arciniegas"
+    }
+  ],
+  "RPA4": [
+    {
+      "range": "A1:L19",
+      "description": "Reporte de Auxiliares grupo Viky Milena Tierradentro Obando"
+    }
+  ],
+  "RPA5": [
+    {
+      "range": "A1:L19",
+      "description": "Reporte de Auxiliares grupo Joan Sebastian Monsalve Avila"
+    }
+  ],
+  "RPA6": [
+    {
+      "range": "A1:L22",
+      "description": "Reporte de Auxiliares grupo Paula Andrea Camacho Perez"
+    }
+  ],
+  "RPA7": [
+    {
+      "range": "A1:L23",
+      "description": "Reporte de Auxiliares grupo Gissel Daniela Perdomo Rodriguez"
+    }
+  ],
+  "RPA8": [
+    {
+      "range": "A1:L29",
+      "description": "Reporte de Auxiliares grupo Maria Alejandra Urrutia Moreno"
+    }
+  ],
+  "RPA9": [
+    {
+      "range": "A1:L29",
+      "description": "Reporte de Auxiliares grupo Fabio Giovany Martinez"
+    }
+  ],
+  "RPA10": [
+    {
+      "range": "A1:K25",
+      "description": "Reporte de Auxiliares grupo Claudia Janeth Remigio Amortegui"
+    }
+  ],
+  "RPA11": [
+    {
+      "range": "A1:K25",
+      "description": "Reporte de Auxiliares Lizeth Daniela Prado Rodriguez"
+    }
+  ],
+  "RPA12": [
+    {
+      "range": "A1:K30",
+      "description": "Reporte de Auxiliares Stiven Andres Morales Parra"
+    }
+  ]
+}

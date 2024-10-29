@@ -1,0 +1,14 @@
+{
+  "ReporteAuxiliares": [
+    {
+      "range": "A1:I16",
+      "description": "ReporteAuxiliares"
+    }
+  ],
+  "ReporteConexion": [
+    {
+      "range": "A1:I16",
+      "description": "ReporteConexion"
+    }
+  ]
+}

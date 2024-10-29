@@ -1,0 +1,44 @@
+{
+  "PDC1": [
+    {
+      "range": "A1:J38",
+      "description": "Punto de Control Hogar"
+    }
+  ],
+  "PDC2": [
+    {
+      "range": "A1:J38",
+      "description": "Punto de Control Migracion"
+    }
+  ],
+  "PDC3": [
+    {
+      "range": "A1:J38",
+      "description": "Punto de Control Portabilidad"
+    }
+  ],
+  "PDC4": [
+    {
+      "range": "A1:J38",
+      "description": "Punto de Control Inbound"
+    }
+  ],
+  "PDC5": [
+    {
+      "range": "A1:O44",
+      "description": "Informe Omnicanalidad Hogar"
+    }
+  ],
+  "PDC6": [
+    {
+      "range": "A1:O44",
+      "description": "Informe Omnicanalidad Migracion"
+    }
+  ],
+  "PDC7": [
+    {
+      "range": "A1:O44",
+      "description": "Informe Omnicanalidad Portabilidad"
+    }
+  ]
+}

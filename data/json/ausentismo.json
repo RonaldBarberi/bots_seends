@@ -1,0 +1,20 @@
+{
+  "AusentismoHaroldBonilla": [
+    {
+      "range": "A1:I57",
+      "description": "Ausentismo grupo Harold Bonilla"
+    }
+  ],
+  "AusentismoKimberliMaldonado": [
+    {
+      "range": "A1:I45",
+      "description": "Ausentismo grupo Kimberli Maldonado"
+    }
+  ],
+  "AusentismoNancyChilito": [
+    {
+      "range": "A1:I49",
+      "description": "Ausentismo grupo Nancy Chilito"
+    }
+  ]
+}
